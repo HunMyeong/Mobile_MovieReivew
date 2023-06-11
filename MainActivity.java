@@ -25,7 +25,7 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity {
 
     //영화진흥위원회 통합전산망에서 발급받은 인증키
-    String apiKey="3e74b60fe100af75533107c1f2f0f55b";
+    String apiKey="";
 
     ListView listView;
     ArrayAdapter adapter;

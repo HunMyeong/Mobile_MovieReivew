@@ -32,7 +32,7 @@ import java.util.List;
 public class ReviewActivity extends AppCompatActivity {
     private ReviewDatabaseHelper dbHelper;
     private SQLiteDatabase database;
-    String apiKey = "3e74b60fe100af75533107c1f2f0f55b";
+    String apiKey = "";
     private EditText editTextName;
     private Spinner spinnerMovie;
     private EditText editTextReview;
